@@ -1,0 +1,11 @@
+C:\Users\felhi_000\Documents\Programação\C#\Blockchain\Blockchain\Blockchain\bin\Debug\netcoreapp2.0\Blockchain.deps.json
+C:\Users\felhi_000\Documents\Programação\C#\Blockchain\Blockchain\Blockchain\bin\Debug\netcoreapp2.0\Blockchain.runtimeconfig.json
+C:\Users\felhi_000\Documents\Programação\C#\Blockchain\Blockchain\Blockchain\bin\Debug\netcoreapp2.0\Blockchain.runtimeconfig.dev.json
+C:\Users\felhi_000\Documents\Programação\C#\Blockchain\Blockchain\Blockchain\bin\Debug\netcoreapp2.0\Blockchain.dll
+C:\Users\felhi_000\Documents\Programação\C#\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp2.0\Blockchain.csprojResolveAssemblyReference.cache
+C:\Users\felhi_000\Documents\Programação\C#\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp2.0\Blockchain.csproj.CoreCompileInputs.cache
+C:\Users\felhi_000\Documents\Programação\C#\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp2.0\Blockchain.AssemblyInfoInputs.cache
+C:\Users\felhi_000\Documents\Programação\C#\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp2.0\Blockchain.AssemblyInfo.cs
+C:\Users\felhi_000\Documents\Programação\C#\Blockchain\Blockchain\Blockchain\bin\Debug\netcoreapp2.0\Blockchain.pdb
+C:\Users\felhi_000\Documents\Programação\C#\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp2.0\Blockchain.dll
+C:\Users\felhi_000\Documents\Programação\C#\Blockchain\Blockchain\Blockchain\obj\Debug\netcoreapp2.0\Blockchain.pdb
